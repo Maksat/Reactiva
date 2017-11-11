@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8E8F7614-1297-4386-A304-C70713893649}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reactiva Status">
+    <Files>
+      <File FileName="Reactiva Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Reactiva.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73901022-2E65-43F2-800B-0F69F0E717E7">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Reactiva.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
