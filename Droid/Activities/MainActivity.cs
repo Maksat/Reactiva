@@ -39,6 +39,7 @@ namespace Reactiva.Droid
                 fragment?.BecameVisible();
             };
 
+
             Toolbar.MenuItemClick += (sender, e) =>
             {
                 var intent = new Intent(this, typeof(AddItemActivity)); ;
